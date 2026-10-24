@@ -36,7 +36,7 @@ Chopper Hopper is a Flappy Bird-inspired game featuring a helicopter, futuristic
 
 ## Gameplay Demo
 
-[Watch Chopper Hopper gameplay]([https://youtu.be/KTdaK0qzVV8])
+[Watch Chopper Hopper gameplay](https://youtu.be/KTdaK0qzV8)
       
 
 
